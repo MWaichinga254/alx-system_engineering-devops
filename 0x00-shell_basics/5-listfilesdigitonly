@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -l /etc /bin
+pwd
+ls -l
+ls -la
