@@ -1,1 +1,1 @@
-permission granted
+readpermissions
