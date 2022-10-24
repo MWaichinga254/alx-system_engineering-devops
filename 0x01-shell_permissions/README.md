@@ -1,1 +1,1 @@
-readpermissions
+everybody
