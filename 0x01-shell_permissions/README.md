@@ -1,1 +1,1 @@
-readpersmissions
+readpermissions
