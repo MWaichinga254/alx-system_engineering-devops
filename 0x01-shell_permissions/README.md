@@ -1,1 +1,1 @@
-directories with permissions
+creating school
