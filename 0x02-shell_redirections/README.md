@@ -1,1 +1,1 @@
-Best school file
+best school file
