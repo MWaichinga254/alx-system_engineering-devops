@@ -1,1 +1,1 @@
-cwd_content
+last_line
