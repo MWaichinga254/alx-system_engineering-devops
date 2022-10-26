@@ -1,1 +1,1 @@
-last_line
+deleting regular files
