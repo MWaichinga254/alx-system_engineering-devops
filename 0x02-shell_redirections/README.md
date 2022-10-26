@@ -1,1 +1,1 @@
-best school file
+cwd_content
