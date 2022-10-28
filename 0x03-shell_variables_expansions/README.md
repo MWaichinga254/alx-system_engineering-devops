@@ -1,1 +1,1 @@
-creating school
+global variable
