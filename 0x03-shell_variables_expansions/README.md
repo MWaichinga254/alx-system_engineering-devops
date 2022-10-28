@@ -1,1 +1,1 @@
-local variables
+creating school
